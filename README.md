@@ -3,13 +3,8 @@
  | |_| |  / _ \ | | | |  / _ \   \ \ /\ / /   / _ \  | '__| | |  / _` | | |
  |  _  | |  __/ | | | | | (_) |   \ V  V /   | (_) | | |    | | | (_| | |_|
  |_| |_|  \___| |_| |_|  \___/     \_/\_/     \___/  |_|    |_|  \__,_| (_)
-                                                                            
+                                                                           
 
-
-<!--
-**anvaron/anvaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 
 - 🔭 I’m currently working on Javascript projects.
 - 🌱 I’m currently learning Full Stack Web Development 
