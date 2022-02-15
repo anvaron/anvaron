@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **MERN/MEVN/MEAN/PERN/Flutter/LAMP Stacks**
 
-- 💬 Ask me about **Front-End, UX**
+- 💬 Ask me about **Front-End, Wireframing, User Interfaces UX**
 
 - 📫 How to reach me **anvaron@gmail.com**
 
