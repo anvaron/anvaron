@@ -1,19 +1,19 @@
 <div class="container">
 			
-<h1 align="center">Hello World => I'm <b style="font-weight: 800 !important">OSCAR</b></h1>
-<h3 align="center">A goal oriented <span style="font-weight: 800 !important">Full Stack Developer</span></h3>
+<h1 align="center">Hello World => I'm **OSCAR** </h1>
+<h3 align="center">A goal oriented **Full Stack Developer** </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvaron&label=Profile%20views&color=0e75b6&style=flat" alt="anvaron" /> </p>
 
-🔘  I’m currently working on < Javascript projects />
+☑  I’m currently working on < Javascript projects />
 	
-🔘  I’m currently learning < Full Stack Web Development />
+☑  I’m currently learning < Full Stack Web Development />
 
-🔘  I’m looking for help with **MERN/MEVN/MEAN/PERN/Flutter/LAMP Stacks**
+☑  I’m looking for help with **MERN/MEVN/MEAN/PERN/Flutter/LAMP Stacks**
 
-🔘  Ask me about **Frontend Dev, Databases, Prototyping, Wireframing, User Interfaces, UX**
+☑  Ask me about **Frontend Dev, Databases, Prototyping, Wireframing, User Interfaces, UX**
 
-🔘  How to reach me **anvaron@gmail.com**
+☑  How to reach me = **anvaron@gmail.com**
 
 <h3 align="left">Lets connect on:</h3>
 <p align="left">
