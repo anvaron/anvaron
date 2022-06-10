@@ -1,6 +1,6 @@
 <div class="container">
 			
-<h1 align="center">Hello World => I'm <span style="color:green">OSCAR</span></h1>
+<h1 align="center">Hello World => I'm <strong>OSCAR</strong></h1>
 <h3 align="center">A goal oriented <span style="font-weight: 800 !important">Full Stack Developer</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvaron&label=Profile%20views&color=0e75b6&style=flat" alt="anvaron" /> </p>
