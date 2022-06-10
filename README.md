@@ -1,3 +1,30 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+         h1 {
+					font-size: 50px;
+					line-height: 1.3;
+					letter-spacing: 5px;
+					text-transform: uppercase;
+					text-shadow:
+						0 1px 0 #efefef,
+						0 2px 0 #efefef,
+						0 3px 0 #efefef,
+						0 4px 0 #efefef,
+						0 12px 5px rgba(0, 0, 0, 0.1);
+					animation: rotate ease-in-out 1s infinite alternate;
+				}
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+					animation: 5s ease 0s normal forwards 1 fadeIn;
+				}
+			</style>
+      <div class="container">
+				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<p>Click to see the source</p>
+			
 <h1 align="center">Hello World => I'm <span style="font-weight: 800">Oscar</span></h1>
 <h3 align="center">A goal oriented <span style="font-weight: 800 !important">Full Stack Developer</span></h3>
 
@@ -37,3 +64,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvaron&show_icons=true&locale=en" alt="anvaron" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvaron&" alt="anvaron" /></p>
+       
+		</div>	
+		</div>
+	</foreignObject>
+</svg>
